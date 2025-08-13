@@ -36,11 +36,11 @@ Run the executable:
 
 Upon running the program, a menu will be displayed with the following options:
 
-1.  Unit Converter
-2.  Password Generator
-3.  File Information Checker
-4.  Calculator
-5.  Exit
+1.  `Unit Converter`
+2.  `Password Generator`
+3.  `File Information Checker`
+4.  `Calculator`
+5.  `Exit`
 
 Enter the number corresponding to your desired tool and follow the prompts to use it.
 
