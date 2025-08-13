@@ -53,7 +53,7 @@ Enter the number corresponding to your desired tool and follow the prompts to us
 
 ## **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://grok.com/chat/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/afnan-nex/multi_tools_in_c/blob/main/LICENSE) file for details.
 
 ## **Acknowledgments**
 
